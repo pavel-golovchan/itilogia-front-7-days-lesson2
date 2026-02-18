@@ -12,3 +12,17 @@
     width: 100%;
     position: relative;
 }
+.main-title {
+    margin-top: 98px;
+    font-weight: 500;
+    font-size: 200px;
+    line-height: 1;
+    letter-spacing: -0.05em;
+    color: #111111;
+    left: -15px;
+    position: relative;
+}
+
+.main-title span {
+    color: #ffcc00;
+}
