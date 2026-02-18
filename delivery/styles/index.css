@@ -22,7 +22,21 @@
     left: -15px;
     position: relative;
 }
-
 .main-title span {
     color: #ffcc00;
+}
+.main-features {
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.main-feature {
+    background: #111111;
+    color: #ffffff;
+    padding: 12px 14px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.1;
+    border-radius: 10px;
 }
