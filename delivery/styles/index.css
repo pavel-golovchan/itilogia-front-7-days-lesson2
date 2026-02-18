@@ -40,3 +40,10 @@
     line-height: 1.1;
     border-radius: 10px;
 }
+.main-description {
+    margin-top: 50px;
+    max-width: 500px;
+    font-size: 20px;
+    line-height: 1.1;
+    color: #111111;
+}
