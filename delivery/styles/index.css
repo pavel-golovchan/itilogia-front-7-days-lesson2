@@ -7,3 +7,8 @@
     position: relative;
     display: flex;
 }
+.main-info {
+    max-width: 840px;
+    width: 100%;
+    position: relative;
+}
