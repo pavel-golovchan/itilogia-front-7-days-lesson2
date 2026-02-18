@@ -42,3 +42,27 @@ body {
     align-items: center;
     z-index: 6;
 }
+.header-brand {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    gap: 10px;
+}
+
+.header-logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 10px;
+    background: #FFCC00;
+    display: grid;
+    place-items: center;
+    font-weight: bold;
+    color: #111;
+}
+
+.header-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #111111;
+    text-decoration: none;
+}
