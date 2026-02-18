@@ -61,3 +61,29 @@
         max-width: 350px;
     }
 }
+@media (max-width: 570px) {
+    .main-title {
+        font-size: 88px;
+    }
+
+    .main-description {
+        max-width: 100%
+    }
+
+    .main-actions {
+       width: 100%;
+    }
+
+    .main-actions .button {
+        width: 100%;
+        max-width: 100%
+    }
+
+    .main-image {
+        max-width: 650px;
+        position: absolute;
+        left: 170px;
+        top: 70px;
+        opacity: 0.2;
+    }
+}
