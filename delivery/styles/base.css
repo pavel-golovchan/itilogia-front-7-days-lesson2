@@ -59,10 +59,23 @@ body {
     font-weight: bold;
     color: #111;
 }
-
 .header-title {
     font-size: 18px;
     font-weight: bold;
     color: #111111;
     text-decoration: none;
 }
+.header-menu {
+     display: flex;
+     align-items: center;
+     gap: 60px;
+     margin: 0;
+     position: absolute;
+     left: 50%;
+     transform: translateX(-50%);
+ }
+ .header-link {
+     font-size: 14px;
+     color: #111111;
+     text-decoration: none;
+ }
