@@ -15,3 +15,13 @@
     src: url("../fonts/Roboto-Medium.ttf");
     font-weight: 500;
 }
+
+html, body {
+    margin: 0;
+    color: #111111;
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background: #FDFDFD;
+}
