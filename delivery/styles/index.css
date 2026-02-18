@@ -2,3 +2,8 @@
     overflow: hidden;
     min-height: 100vh;
 }
+.main {
+    padding: 111px 40px 40px;
+    position: relative;
+    display: flex;
+}
